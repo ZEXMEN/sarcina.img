@@ -1,0 +1,16 @@
+.a1 { color: chocolate;
+font-size: 30px;
+background-color: brown;
+width: 230px;
+}
+
+#b1 {
+color: blueviolet;
+font-size: 25px;
+
+}
+img {
+ width: 200px;
+ height: 250px;
+ border: 10px dashed black;
+}
